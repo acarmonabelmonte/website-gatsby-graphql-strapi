@@ -9,9 +9,7 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {
-    "apollo-server-koa": ">=2.14.2"
-  },
+  "devDependencies": {},
   "dependencies": {
     "strapi": "3.0.5",
     "strapi-admin": "3.0.5",
